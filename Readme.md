@@ -9,7 +9,7 @@ fast-tracker-integration-taro-plugin是基于专门为taro小程序集成天眼�
 
 ## 配置项
 
-<div style="width: 120px">配置</div> | <div style="width: 60px">字段类型</div> | 说明 | <div style="min-width: 60px">是否必填</div> | <div style="width: 60px">默认值</div>
+配置 | 字段类型 | 说明 | 是否必填 | 默认值
 ---|---|---|---|---
 app_code (通用配置参数) | string | 应用编码 | 是 | 无默认值
 product_code (通用配置参数) | string | 产品编码 | 是 | 无默认值
